@@ -1,4 +1,4 @@
-# Cab Booking Recommendation System - A Data Engineering perspective (Azure, PySpark, Airflow)
+# Cab Booking Recommendation System - A Data Engineering perspective (Azure, PySpark, Data Engineering)
 
 This project implements a **cab booking recommendation system** using **Azure SQL Database, PySpark, Azure Databricks, Azure Stream Analytics and Event Hubs**.
 It predicts **cab ride pickup and drop location recommendations** based on past user's history.
